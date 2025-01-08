@@ -1,0 +1,3 @@
+Creditos a YT-DLP por hacer el sistema para descargar el audio
+Creditos a ffmpeg por hacer el sistema para convertir el audio a .mp3
+Creditos a Its_Angel_07 por hacer el script

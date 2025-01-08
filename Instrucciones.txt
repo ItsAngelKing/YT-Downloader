@@ -1,0 +1,11 @@
+1º. Poner los links de youtube en el archivo input_mp3.txt(Para MP3) o input_mp4.txt(Para MP4) de la siguiente manera(No hay limite de links o de duración de video o audio):
+
+https://youtube.com/watch?#######
+https://youtube.com/watch?#######
+https://youtube.com/watch?#######
+https://youtube.com/watch?#######
+
+2º. Ejecutar start.ps1 con PowerShell con los comandos "cd <ruta donde se encuentra el archivo>" y "./start".
+3º. En el menú aparecen 3 opciones, elejir la opcion adecuada.
+4º. Los videos/audios se descargan en la carpeta output (Compruebalos para ver si se oyen/ve bien y si no tienen cortes ni fallos)
+5º. Al final de todo el proceso te permite cerrar el programa
